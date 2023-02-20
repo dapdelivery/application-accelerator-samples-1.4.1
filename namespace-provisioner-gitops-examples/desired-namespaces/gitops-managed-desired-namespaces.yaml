@@ -12,10 +12,4 @@ data:
     #@data/values
     ---
     namespaces:
-    - name: python-backend-app
-      language: python
-      scanpolicy: snyk
-    - name: angular-fe-app
-      language: angular
-    - name: golang-opts
-      language: golang
+    - name: my-apps
