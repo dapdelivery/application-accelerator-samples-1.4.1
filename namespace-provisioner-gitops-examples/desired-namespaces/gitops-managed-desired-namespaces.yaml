@@ -13,3 +13,4 @@ data:
     ---
     namespaces:
     - name: my-apps
+    - name: my-apps2
